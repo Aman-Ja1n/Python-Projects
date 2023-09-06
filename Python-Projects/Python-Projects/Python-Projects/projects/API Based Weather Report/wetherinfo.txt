@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - JAIPUR  || 16 Aug 2023 | 12:28:25 AM
+-------------------------------------------------------------
+	Current temperature is : 27.62 °C
+	Current weather desc   : mist
+	Current Humidity       : 83 %
+	Current wind speed     : 2.57 km/h 
